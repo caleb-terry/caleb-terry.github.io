@@ -31,7 +31,7 @@ github_username:  caleb-terry
 linkedin_username: calebterry
 
 # Build settings
-theme: jekyll-theme-modernist
+theme: minima
 
 # Exclude from processing.
 # The following items will not be processed, by default.
