@@ -1,0 +1,7 @@
+---
+# This is YAML front matter required for Jekyll to process the SCSS
+---
+
+// Import your custom styles
+@import "aside-nav";  // This will look for the `_sass/custom.scss` file
+@import "top-nav";

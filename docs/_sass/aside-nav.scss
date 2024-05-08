@@ -1,0 +1,52 @@
+/* Styling for the Sidebar Navigation Bar */
+aside {
+    width: 250px; /* Set the sidebar width */
+    margin: 20px; /* Add margin to float off the page edge */
+    padding: 15px; /* Space around the inner content */
+    background-color: #f9f9f9; /* Light gray background */
+    border-radius: 15px; /* Rounded corners for a pill-like shape */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Subtle shadow for a floating effect */
+    float: left; /* Align the sidebar to the left */
+    position: relative;
+  }
+  
+  /* Adjust Main Content to Accommodate Sidebar */
+  main {
+    margin-left: 300px; /* Adjust to fit sidebar width + margin */
+  }
+  
+  /* Blog Post List Styles */
+  aside ul {
+    list-style: none; /* Remove bullet points */
+    padding-left: 0;
+    margin: 0;
+  }
+  
+  aside li {
+    margin-bottom: 10px; /* Space between items */
+  }
+  
+  aside li a {
+    text-decoration: none;
+    color: #0366d6; /* Adjust color to match your theme */
+    font-weight: bold; /* Emphasize titles */
+    display: block; /* Make the entire title clickable */
+    border-radius: 8px;
+    padding: 5px 8px; /* Add padding around the link */
+  }
+  
+  aside li a:hover {
+    background-color: #e1e8ed; /* Light hover effect */
+    text-decoration: none;
+    border-radius: 8px; /* Match link border radius */
+  }
+  
+  /* Date Display for Blog Posts */
+  .post-date {
+    display: block; /* Position date below title */
+    font-size: 0.9em; /* Slightly smaller font */
+    color: #666; /* Gray color */
+    margin-top: 2px; /* Slight margin above the date */
+  }
+  
+

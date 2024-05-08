@@ -1,8 +1,9 @@
 ---
 layout: custom
-title: "Welcome to Jekyll!"
-date: 2024-05-08 15:33:31 -0500
-categories: jekyll update
+title: "Why ShareX should be in your productivity arsenal!"
+date: 2024-05-08 17:45:16 -05:00
+categories: productivity
+tag: productivity
 ---
 
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.

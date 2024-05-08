@@ -31,7 +31,11 @@ github_username:  caleb-terry
 linkedin_username: calebterry
 
 # Build settings
-theme: minima
+# theme: minima
+remote_theme: pages-themes/cayman@v0.2.0
+
+sass:
+  style: compressed  # or expanded for easier debugging
 
 # Exclude from processing.
 # The following items will not be processed, by default.
