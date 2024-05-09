@@ -33,6 +33,8 @@ linkedin_username: calebterry
 # Build settings
 # theme: minima
 theme: minimal-mistakes-jekyll
+plugins:
+  - jekyll-include-cache
 
 sass:
   style: compressed  # or expanded for easier debugging
