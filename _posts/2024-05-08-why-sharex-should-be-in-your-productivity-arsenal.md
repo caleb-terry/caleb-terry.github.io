@@ -1,5 +1,5 @@
 ---
-layout: custom
+layout: posts
 title: "Why ShareX should be in your productivity arsenal!"
 date: 2024-05-08 17:45:16 -05:00
 categories: productivity
