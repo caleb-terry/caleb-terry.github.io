@@ -32,7 +32,7 @@ linkedin_username: calebterry
 
 # Build settings
 # theme: minima
-remote_theme: pages-themes/cayman@v0.2.0
+theme: minimal-mistakes-jekyll
 
 sass:
   style: compressed  # or expanded for easier debugging
