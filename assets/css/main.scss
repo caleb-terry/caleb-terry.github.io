@@ -3,5 +3,6 @@
 ---
 
 // Import your custom styles
-@import "aside-nav";  // This will look for the `_sass/custom.scss` file
+@import "aside-nav";
 @import "top-nav";
+@import "mobile-friendly";
