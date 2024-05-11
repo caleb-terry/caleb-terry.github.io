@@ -114,7 +114,7 @@ analytics:
 author:
   name             : *name
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "DevOps, Linux, fatherhood, and beyond."
+  bio              : "Azure, DevOps, Linux, and everything in between."
   location         : "Brandon, MS"
   email            :
   links:
@@ -136,6 +136,9 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://linkedin.com/in/calebterry"
 
 # Site Footer
 footer:
